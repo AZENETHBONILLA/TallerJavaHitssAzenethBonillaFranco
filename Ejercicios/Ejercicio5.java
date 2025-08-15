@@ -37,7 +37,7 @@ public class Ejercicio5 {
                     }
                 }
                 case 2 -> System.out.println("Total de ventas: $" + ventas); // Mostrar el total de ventas acumuladas
-                case 3 -> System.out.println("¡Has salido con éxito!");
+                case 3 -> System.out.println("¡Has salido con éxito!"); //Salir del programa
                 default -> System.out.println("Opción inválida, intenta nuevamente.");
             }
 
