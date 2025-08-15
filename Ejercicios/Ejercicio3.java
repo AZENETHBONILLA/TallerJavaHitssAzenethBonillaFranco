@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Ejercicio3 {
     public static void main(String[] args) {
         // Ejercicio 3: Solicitar 20 calificaciones (escala del 1 al 10)
-        
         Scanner entrada = new Scanner(System.in);
 
         // Variables para almacenar las notas y sumatorias
@@ -67,7 +66,7 @@ public class Ejercicio3 {
         System.out.println("Cantidad de notas iguales a 1: " + contadorIgual1);
         System.out.println("Promedio total: " + promedioTotal);
 
-        // Cerrar el objeto Scanner para liberar recursos
+        
         entrada.close();
     }
 }
