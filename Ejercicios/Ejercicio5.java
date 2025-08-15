@@ -36,12 +36,9 @@ public class Ejercicio5 {
                         System.out.println("Pedido registrado correctamente.");
                     }
                 }
-                case 2 -> // Mostrar el total de ventas acumuladas
-                    System.out.println("Total de ventas: $" + ventas);
-                case 3 -> 
-                    System.out.println("¡Has salido con éxito!");
-                default ->
-                    System.out.println("Opción inválida, intenta nuevamente.");
+                case 2 -> System.out.println("Total de ventas: $" + ventas); // Mostrar el total de ventas acumuladas
+                case 3 -> System.out.println("¡Has salido con éxito!");
+                default -> System.out.println("Opción inválida, intenta nuevamente.");
             }
 
         } while (opcion != 3); // El bucle continúa mientras la opción sea diferente de 3 (salir)
