@@ -51,7 +51,7 @@ public class Ejercicio3 {
         }
 
         // Cálculo de promedios utilizando el operador ternario
-        // Esto evita divisiones entre cero si no existen notas en una categoría
+        // Esto evita divisiones entre 0 si no existen notas en una categoría 
         double promedioMayoresIgual6 = 
             contadorMayoresIgual6 > 0 ? (sumaMayoresIgual6 / contadorMayoresIgual6) : 0;
         double promedioMenores6 = 
