@@ -11,7 +11,6 @@ public class Ejercicio4 {
 
         // Bucle do-while para mostrar el menú repetidamente
         do {
-            // Encabezado estilizado
             System.out.println("\n╔══════════════════════════════╗");
             System.out.println("║         MENÚ PRINCIPAL       ║");
             System.out.println("╠══════════════════════════════╣");
