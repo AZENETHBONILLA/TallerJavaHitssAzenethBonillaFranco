@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ejercicio4 {
     public static void main(String[] args) {
-        // Ejercicio 4: Menú interactivo con opciones básicas de gestión de usuario
+        // Ejercicio 4: Menú interactivo con opciones básicas de administración de productos
         
         Scanner sc = new Scanner(System.in);
         int opcion; // Almacena la opción seleccionada por el usuario
