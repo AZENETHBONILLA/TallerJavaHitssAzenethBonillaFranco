@@ -1,4 +1,4 @@
-package Ejercicios;
+package controlflujo;
 
 import java.util.Scanner;
 
