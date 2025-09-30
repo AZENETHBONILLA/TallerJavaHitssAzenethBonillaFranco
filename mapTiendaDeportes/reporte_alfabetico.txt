@@ -1,0 +1,6 @@
+📋 Reporte - Orden alfabético:
+101 - Balón (Fútbol) | Stock: 45
+202 - Camiseta (Básquetbol) | Stock: 40
+404 - Guantes (Béisbol) | Stock: 15
+125 - Raqueta (Tenis) | Stock: 25
+303 - Tenis (Atletismo) | Stock: 20
